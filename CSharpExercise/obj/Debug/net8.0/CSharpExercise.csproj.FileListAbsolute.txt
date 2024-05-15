@@ -1,0 +1,14 @@
+C:\Kurs\CSharpExercise\CSharpExercise\bin\Debug\net8.0\CSharpExercise.exe
+C:\Kurs\CSharpExercise\CSharpExercise\bin\Debug\net8.0\CSharpExercise.deps.json
+C:\Kurs\CSharpExercise\CSharpExercise\bin\Debug\net8.0\CSharpExercise.runtimeconfig.json
+C:\Kurs\CSharpExercise\CSharpExercise\bin\Debug\net8.0\CSharpExercise.dll
+C:\Kurs\CSharpExercise\CSharpExercise\bin\Debug\net8.0\CSharpExercise.pdb
+C:\Kurs\CSharpExercise\CSharpExercise\obj\Debug\net8.0\CSharpExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kurs\CSharpExercise\CSharpExercise\obj\Debug\net8.0\CSharpExercise.AssemblyInfoInputs.cache
+C:\Kurs\CSharpExercise\CSharpExercise\obj\Debug\net8.0\CSharpExercise.AssemblyInfo.cs
+C:\Kurs\CSharpExercise\CSharpExercise\obj\Debug\net8.0\CSharpExercise.csproj.CoreCompileInputs.cache
+C:\Kurs\CSharpExercise\CSharpExercise\obj\Debug\net8.0\CSharpExercise.dll
+C:\Kurs\CSharpExercise\CSharpExercise\obj\Debug\net8.0\refint\CSharpExercise.dll
+C:\Kurs\CSharpExercise\CSharpExercise\obj\Debug\net8.0\CSharpExercise.pdb
+C:\Kurs\CSharpExercise\CSharpExercise\obj\Debug\net8.0\CSharpExercise.genruntimeconfig.cache
+C:\Kurs\CSharpExercise\CSharpExercise\obj\Debug\net8.0\ref\CSharpExercise.dll
